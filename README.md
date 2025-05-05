@@ -1,5 +1,6 @@
 # airbnb-clone-project
 **Project Description**
+
 This project is a full-stack clone of the popular accommodation booking platform AirBnB. The goal is to build a functional web application that allows users to browse property listings, view detailed property information, and complete bookings. The project will cover frontend development, backend APIs, database design, and deployment.
 
 **Learning Objectives**
@@ -22,6 +23,37 @@ This project is a full-stack clone of the popular accommodation booking platform
 3. Ensure fast loading times
 4. Prioritize mobile responsiveness
 
+**Project Roles and Responsibilities**
+**Role	Responsibilities**
+1. Project Manager:	Oversees timeline, coordinates team, manages deliverables
+2. Frontend Developers:	Implements UI components, ensures responsive design
+3. Backend Developers:	Builds APIs, manages database, implements business logic
+4. Designers:	Creates mockups, maintains design system, ensures UX quality
+5. QA/Testers:	Writes test cases, performs testing, reports bugs
+6. DevOps Engineers	Manages deployment, CI/CD pipeline, server infrastructure
+7. Product Owner	Defines requirements, prioritizes features, represents stakeholders
+8. Scrum Master	Facilitates agile processes, removes blockers, organizes meetings
+9. UI Component Patterns
+    
+**Planned Components**
+**Navbar**
+1. Logo
+2. Search bar
+3. User navigation
+4. Responsive menu
+5. Property Card
+
+**Property image**
+1. Basic details (price, location, rating)
+2. Favorite button
+3. Responsive layout
+
+**Footer**
+1. Site links
+2. Company information
+3. Social media links
+4. Copyright information
+
 **Key Features**
 1. Property search and filtering
 2. Detailed property viewing
@@ -35,6 +67,7 @@ This project is a full-stack clone of the popular accommodation booking platform
 4. Simple Checkout View	Streamlined payment and booking confirmation
 
 **Importance of User-Friendly Design**
+
 A well-designed booking system reduces friction in the user journey, increases conversion rates, and improves customer satisfaction. Clear navigation, intuitive interfaces, and responsive design are critical for success.
 
 **Figma Design Specifications**
